@@ -1,0 +1,7 @@
+C:\Users\lenovo\Desktop\immodlab3\FlightBack\obj\Debug\FlightBack.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\immodlab3\FlightBack\obj\Debug\FlightBack.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\immodlab3\FlightBack\bin\Debug\FlightBack.exe.config
+C:\Users\lenovo\Desktop\immodlab3\FlightBack\bin\Debug\FlightBack.exe
+C:\Users\lenovo\Desktop\immodlab3\FlightBack\bin\Debug\FlightBack.pdb
+C:\Users\lenovo\Desktop\immodlab3\FlightBack\obj\Debug\FlightBack.exe
+C:\Users\lenovo\Desktop\immodlab3\FlightBack\obj\Debug\FlightBack.pdb
