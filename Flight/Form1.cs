@@ -28,10 +28,10 @@ namespace Flight
 
         private void timer1_Tick(object sender, EventArgs e)
         {
-            t = newBack.IncreaseT(t);
-            tick = newBack.IncreaseTick(tick);
-            label7.Text = tick.ToString();
-            label8.Text = t.ToString();
+            newBack.IncreaseT();
+            newBack.IncreaseTick();
+            label7.Text = newBack.tick.ToString();
+            label8.Text = newBack.t.ToString();
             Coordinates = newBack.NextStep();
 
             chart1.Series[0].Points.AddXY(Coordinates.x, Coordinates.y);

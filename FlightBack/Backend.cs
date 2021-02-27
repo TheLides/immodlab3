@@ -12,8 +12,8 @@ namespace FlightBack
         const double g = 9.81;
         const double C = 0.15;
         const double rho = 1.29;
-        double t = 0;
-        int tick = 0;
+        public double t = 0;
+        public int tick = 0;
         double k, vx, vy, x, y;
         Point ans = new Point();
 
@@ -39,15 +39,13 @@ namespace FlightBack
             return ans;
         }
         
-        public double IncreaseT(double t)
+        public void IncreaseT()
         {
             t += dt;
-            return t;
         }
-        public int IncreaseTick(int tick)
+        public double IncreaseTick()
         {
             tick++;
-            return tick;
         }
         
         private double DegToRad(double a)
